@@ -23,3 +23,9 @@ It plans. It does not generate media, schedule or publish anything.
 3. Peça, por exemplo: *"Planeja o conteúdo do Instagram do meu estúdio de pilates para o próximo mês."*
    Ou chame direto: `/content-planner-agent`.
 4. Conte quem é o seu público, o que você vende e o que já postou. No final você terá a direção da rodada, o calendário, as headlines com nota e as peças pedidas, em português.
+
+## License
+
+You may use this skill, including in your own or your company's commercial projects, and modify it for your own use. You may not resell, sublicense, redistribute or publish it, original or modified, alone or in a bundle, in any marketplace or repository. The plans and content you create with it are yours. Provided as is, without warranty. Full terms in [LICENSE](LICENSE).
+
+**Licença (resumo em português):** você pode usar a skill, inclusive em projetos comerciais seus ou da sua empresa, e modificá-la para uso próprio. Não pode revender, sublicenciar, redistribuir nem publicar a skill (original ou modificada), sozinha ou em pacote, em nenhum marketplace ou repositório. Os planos e conteúdos que você criar com ela são seus. Sem garantia. Termos completos (em inglês) em [LICENSE](LICENSE).
