@@ -24,6 +24,13 @@ It plans. It does not generate media, schedule or publish anything.
    Ou chame direto: `/content-planner-agent`.
 4. Conte quem é o seu público, o que você vende e o que já postou. No final você terá a direção da rodada, o calendário, as headlines com nota e as peças pedidas, em português.
 
+
+## Support
+
+Questions or problems: leandro@veriddan.com
+
+**Suporte:** dúvidas ou problemas, escreva para leandro@veriddan.com.
+
 ## License
 
 You may use this skill, including in your own or your company's commercial projects, and modify it for your own use. You may not resell, sublicense, redistribute or publish it, original or modified, alone or in a bundle, in any marketplace or repository. The plans and content you create with it are yours. Provided as is, without warranty. Full terms in [LICENSE](LICENSE).
